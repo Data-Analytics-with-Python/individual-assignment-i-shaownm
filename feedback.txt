@@ -1,0 +1,3 @@
+Q6: Box plots should have been separated so that the scale of the first one would not affect the other two. (−3)
+97/100
+Well done!
